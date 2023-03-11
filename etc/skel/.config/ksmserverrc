@@ -1,0 +1,13 @@
+[$Version]
+update_info=ksmserver_update_loginMode_value.upd:ksmserver_update_loginMode_value_default_enum
+
+[LegacySession: saved at previous logout]
+count=0
+
+[Session: saved at previous logout]
+clientId1=10d2e2d764000167856647400000211600004
+count=1
+program1=/home/mol/.dropbox-dist/dropbox-lnx.x86_64-169.4.5684/dropbox
+restartCommand1=/home/mol/.dropbox-dist/dropbox-lnx.x86_64-169.4.5684/dropbox,-session,10d2e2d764000167856647400000211600004_1678567587_400958
+restartStyleHint1=0
+userId1=mol
